@@ -1,29 +1,40 @@
-# Power-BI-Dashboards
-Showcashing Power BI skills that includes Data modelling, DAX usage, Power Query usage shaping the data and Visualization.
+# Power BI Dashboards 🚀
 
-# Executive Sales Dashboard 📊
+This repository showcases my portfolio of Power BI dashboards, built to demonstrate my end-to-end BI skills — from data modeling to DAX to executive-ready visual reports.
 
-This repository contains a Power BI report (.pbix) that analyzes multi-year sales data for an online retailer. 
+## 📊 Current Project: Executive Sales Dashboard
 
-## 📌 Features
+**Highlights:**
+- Multi-year sales performance analysis
+- KPI cards with YoY comparisons
+- Interactive line charts with drill-down (Year → Quarter → Month)
+- Dynamic tooltips showing Top 5 Sub-Categories
+- Drill-through to detailed transaction view
+- Star schema with clean dimension tables
+- AutoCalendar for robust time intelligence
 
-- Executive summary page with KPIs and Year-over-Year comparisons
-- Drill-downs by Year, Quarter, Month
-- Dynamic tooltips for Top 5 Sub-Categories and Sales and Profit by Region
-- Detailed tabular drill-through for custom insights
-- Follows best practices: star schema, reusable calendar, performance measures
+## 📂 Files
 
-## 🚀 Files
-
-- `Executive_Sales_Dashboard.pbix` — The Power BI report
-- `/images` — Screenshots of key report pages
+- `SuperStore_Sales_Report.pbix` — the Power BI report file
+- `images/` — screenshots of the dashboard (optional but recommended)
 
 ## 🎯 Purpose
 
-Created as a portfolio piece to showcase Power BI data modeling, DAX, interactivity, and visualization design.
+This project demonstrates my capability to:
+- Design an efficient Power BI data model
+- Write accurate DAX measures for sales & profit trends
+- Build visually appealing and executive-friendly reports
+- Enable interactivity with drill-downs, tooltips & drill-throughs
+
+## 📥 How to Use
+
+- Download the `.pbix` file
+- Open it in Power BI Desktop
+- Explore the visuals, filters, and drill-through pages
+
+## ✨ Connect with me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manojyadavmumbai/) for collaboration or opportunities!
 
 ---
-
-Feel free to download and explore!
-
 
